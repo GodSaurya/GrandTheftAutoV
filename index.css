@@ -1,0 +1,102 @@
+ .desktop-1-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-dimgray);
+  width: 100vw;
+  height: 145px;
+}
+.grand-theft-auto,
+.watch-trailer-now {
+  position: absolute;
+  top: 1px;
+  left: 498px;
+  font-size: 50px;
+  font-family: var(--font-kanit);
+}
+.watch-trailer-now {
+  top: 64px;
+  left: 509px;
+  font-size: 48px;
+}
+.screenshot-2023-12-05-195446-1 {
+  position: absolute;
+    top: 144px;
+    left: 0;
+    width: 100vw;
+    height: 640px;
+    object-fit: cover;
+}
+.desktop-1-item {
+  position: absolute;
+  top: 783px;
+  left: 0;
+  background-color: #000;
+  width: 100vw;
+  height: 241px;
+}
+.desktop-1-inner,
+.now-available-on {
+  position: absolute;
+  top: 751px;
+  left: 313px;
+}
+.desktop-1-inner {
+  top: 866px;
+  left: 39px;
+  background-color: var(--color-dimgray);
+  width: 339px;
+  height: 130px;
+}
+.pc,
+.rectangle-div {
+  position: absolute;
+  top: 898px;
+  left: 176px;
+  color: floralwhite;
+}
+.rectangle-div {
+  top: 866px;
+  left: 498px;
+  background-color: var(--color-dimgray);
+  width: 454px;
+  height: 120px;
+}
+.androidmod {
+  position: absolute;
+  top: 893px;
+  left: 543px;
+  color: floralwhite;
+}
+.desktop-1-child1 {
+  position: absolute;
+  top: 866px;
+  left: 1036px;
+  background-color: var(--color-dimgray);
+  width: 359px;
+  height: 120px;
+}
+.ios1602 {
+  position: absolute;
+  top: 893px;
+  left: 1080px;
+  color: floralwhite;
+}
+.desktop-1 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100vw;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-33xl);
+  color: var(--color-white);
+  font-family: var(--font-kavoon);
+}
+
+.marq{
+  color:black;
+  font-weight: bold;
+}
+
+

@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-kavoon: Kavoon;
+  --font-kanit: Kanit;
+
+  /* font sizes */
+  --font-size-33xl: 52px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-dimgray: #665463;
+}
